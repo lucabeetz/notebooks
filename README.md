@@ -1,5 +1,5 @@
 # notebooks
-A collection of Jupyter notebooks on various ML tasks
+A collection of Jupyter notebooks for various ML tasks
 
 ### CatDCGAN
 A DCGAN for creating new cat faces, trained on this dataset: https://github.com/Ferlix/Cat-faces-dataset
